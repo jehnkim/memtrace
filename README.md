@@ -1,2 +1,2 @@
 # memtrace
-memory usage trace using eBPF
+memory usage trace using eBPF CO-RE
